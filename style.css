@@ -286,6 +286,9 @@ section{
     margin-bottom: 3rem;
     text-align: center;
 }
+.section{
+    align-items: first baseline;
+}
 
 span{
     color:var(--main-color)
